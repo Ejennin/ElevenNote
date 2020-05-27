@@ -1,0 +1,2 @@
+C:\Users\ejenn\source\repos\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojAssemblyReference.cache
+C:\Users\ejenn\source\repos\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
